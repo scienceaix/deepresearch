@@ -3,7 +3,7 @@
 For more detailed report, please refer to 
 [A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications](https://arxiv.org/abs/2506.12594)
 
-## Projects/Tools
+## Projects
 
 | Category      | Subcategory                  | Name                                                | URL                                                                                         |
 |:--------------|:-----------------------------|:----------------------------------------------------|:--------------------------------------------------------------------------------------------|
