@@ -29,7 +29,7 @@ For more detailed report, please refer to
 | Open-source   | Agent Framework              | Letta                                               | https://github.com/letta-ai/letta                                                           |
 | Open-source   | Agent Framework              | Mastra                                              | https://github.com/mastra-ai/mastra                                                         |
 | Open-source   | Agent Framework              | Semantic Kernel                                     | https://github.com/microsoft/semantic-kernel                                                |
-| Open-source | Agent Orchestration Platform | Dify                                                | https://dify.ai/                                                                            |
+| Open-source | Agent Orchestration Platform | Dify                                                | https://github.com/langgenius/dify                                                                            |
 | Closed-source | Agent Orchestration Platform | Coze Space                                          | https://www.coze.cn/space-preview                                                           |
 | Closed-source | Agent Orchestration Platform | Flowise                                             | https://flowiseai.com/                                                                      |
 | Closed-source | ​AI Assistant Tools​           | NotebookLm                                          | https://notebooklm.google/                                                                  |
@@ -52,7 +52,8 @@ For more detailed report, please refer to
 | Open-source   | Workflow​                     | AgentLaboratory                                     | https://github.com/SamuelSchmidgall/AgentLaboratory                                         |
 | Closed-source | Multi-modal Agent UI​         | Manus                                               | https://manus.im/                                                                           |
 | Closed-source | Multi-modal Agent UI​         | Flowith-Oracle Mode                                 | https://flowith.net/                                                                        |
-| Open-source   | Multi-modal Agent UI​         | OpenManus                                           | https://github.com/mannaandpoem/OpenManus                                                   |
+| Open-source   | Multi-modal Agent UI​         | OpenManus                                           | https://github.com/FoundationAgents/OpenManus
+)                                                   |
 | Open-source   | Multi-modal Agent UI​         | Camel-AI/OWL                                        | https://github.com/camel-ai/owl                                                             |
 | Open-source   | Multi-modal Agent UI​         | TARS                                                | https://github.com/bytedance/UI-TARS-desktop                                                |
 | Open-source   | Multi-modal Agent UI​         | Nanobrowser                                         | https://github.com/nanobrowser/nanobrowser                                                  |
