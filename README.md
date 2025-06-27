@@ -29,7 +29,7 @@ For more detailed report, please refer to
 | Open-source   | Agent Framework              | Letta                                               | https://github.com/letta-ai/letta                                                           |
 | Open-source   | Agent Framework              | Mastra                                              | https://github.com/mastra-ai/mastra                                                         |
 | Open-source   | Agent Framework              | Semantic Kernel                                     | https://github.com/microsoft/semantic-kernel                                                |
-| Closed-source | Agent Orchestration Platform | Dify                                                | https://dify.ai/                                                                            |
+| Open-source | Agent Orchestration Platform | Dify                                                | https://dify.ai/                                                                            |
 | Closed-source | Agent Orchestration Platform | Coze Space                                          | https://www.coze.cn/space-preview                                                           |
 | Closed-source | Agent Orchestration Platform | Flowise                                             | https://flowiseai.com/                                                                      |
 | Closed-source | ​AI Assistant Tools​           | NotebookLm                                          | https://notebooklm.google/                                                                  |
