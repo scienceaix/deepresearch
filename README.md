@@ -31,6 +31,7 @@ For more detailed report, please refer to
 | Open-source   | Agent Framework              | Semantic Kernel                                     | https://github.com/microsoft/semantic-kernel                                                |
 | Open-source | Agent Orchestration Platform | Dify                                                | https://github.com/langgenius/dify                                                                            |
 | Closed-source | Agent Orchestration Platform | Coze Space                                          | https://www.coze.cn/space-preview                                                           |
+| Closed-source | Agent Orchestration Platform | Coze Space                                          | https://unifuncs.com/deepres                                                           |
 | Closed-source | Agent Orchestration Platform | Flowise                                             | https://flowiseai.com/                                                                      |
 | Closed-source | ​AI Assistant Tools​           | NotebookLm                                          | https://notebooklm.google/                                                                  |
 | Closed-source | ​AI Assistant Tools​           | MGX.dev                                             | https://mgx.dev                                                                             |
@@ -64,6 +65,7 @@ For more detailed report, please refer to
 | Closed-source | Foundation Models​            | Perplexity Deep Research                            | https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research                     |
 | Closed-source | Foundation Models​            | Grok 3 Beta                                         | https://x.ai/news/grok-3                                                                    |
 | Closed-source | Foundation Models​            | AutoGLM-Research                                    | https://autoglm-research.zhipuai.cn/                                                        |
+| Closed-source | Foundation Models            | UniFuncs                                            | https://unifuncs.com/deepresearch                                                           |
 | Closed-source | Foundation Models​            | DeepSeek-R1                                         | https://arxiv.org/abs/2501.12948                                                            |
 | Closed-source | Developer Tools​              | Vercel                                              | https://vercel.com/                                                                         |
 | Closed-source | Developer Tools​              | Bolt                                                | https://bolt.new/                                                                           |
