@@ -29,7 +29,7 @@ For more detailed report, please refer to
 | Open-source   | Agent Framework              | Letta                                               | https://github.com/letta-ai/letta                                                           |
 | Open-source   | Agent Framework              | Mastra                                              | https://github.com/mastra-ai/mastra                                                         |
 | Open-source   | Agent Framework              | Semantic Kernel                                     | https://github.com/microsoft/semantic-kernel                                                |
-| Open-source | Agent Orchestration Platform | Dify                                                | https://github.com/langgenius/dify                                                                            |
+| Open-source   | Agent Orchestration Platform | Dify                                                | https://github.com/langgenius/dify                                                          |
 | Closed-source | Agent Orchestration Platform | Coze Space                                          | https://www.coze.cn/space-preview                                                           |
 | Closed-source | Agent Orchestration Platform | Flowise                                             | https://flowiseai.com/                                                                      |
 | Closed-source | ​AI Assistant Tools​           | NotebookLm                                          | https://notebooklm.google/                                                                  |
@@ -52,19 +52,21 @@ For more detailed report, please refer to
 | Open-source   | Workflow​                     | AgentLaboratory                                     | https://github.com/SamuelSchmidgall/AgentLaboratory                                         |
 | Closed-source | Multi-modal Agent UI​         | Manus                                               | https://manus.im/                                                                           |
 | Closed-source | Multi-modal Agent UI​         | Flowith-Oracle Mode                                 | https://flowith.net/                                                                        |
-| Open-source   | Multi-modal Agent UI​         | OpenManus                                           | https://github.com/FoundationAgents/OpenManus
-)                                                   |
+| Open-source   | Multi-modal Agent UI​         | OpenManus                                           | https://github.com/FoundationAgents/OpenManus                                               |
 | Open-source   | Multi-modal Agent UI​         | Camel-AI/OWL                                        | https://github.com/camel-ai/owl                                                             |
 | Open-source   | Multi-modal Agent UI​         | TARS                                                | https://github.com/bytedance/UI-TARS-desktop                                                |
+| Open-source   | Multi-modal Agent UI​         | Computer Use                                        | https://github.com/volcengine/ai-app-lab/tree/main/demohouse/computer_use                   |
 | Open-source   | Multi-modal Agent UI​         | Nanobrowser                                         | https://github.com/nanobrowser/nanobrowser                                                  |
 | Open-source   | Multi-modal Agent UI​         | JARVIS                                              | https://github.com/microsoft/JARVIS                                                         |
 | Closed-source | Multi-modal Agent UI​         | Devin                                               | https://devin.ai/                                                                           |
+| Closed-source | Multi-modal Agent UI​         | Aime                                                | 知乎：https://zhuanlan.zhihu.com/p/1931137689400370077                                      |
+| Closed-source | Multi-modal Agent UI​         | ChatGPT Agent                                       | https://openai.com/index/introducing-chatgpt-agent/                                         |
 | Closed-source | Foundation Models​            | OpenAI Deep Research                                | https://openai.com/index/introducing-deep-research/                                         |
 | Closed-source | Foundation Models​            | Gimini Deep Research                                | https://blog.google/products/gemini/google-gemini-deep-research/                            |
 | Closed-source | Foundation Models​            | Perplexity Deep Research                            | https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research                     |
 | Closed-source | Foundation Models​            | Grok 3 Beta                                         | https://x.ai/news/grok-3                                                                    |
 | Closed-source | Foundation Models​            | AutoGLM-Research                                    | https://autoglm-research.zhipuai.cn/                                                        |
-| Closed-source | Foundation Models​            | DeepSeek-R1                                         | https://arxiv.org/abs/2501.12948                                                            |
+| Closed-source | Foundation Models​            | DeepSeek-R1                                         | https://github.com/deepseek-ai/DeepSeek-R1                                                  |
 | Closed-source | Developer Tools​              | Vercel                                              | https://vercel.com/                                                                         |
 | Closed-source | Developer Tools​              | Bolt                                                | https://bolt.new/                                                                           |
 | Closed-source | Developer Tools​              | Cursor                                              | https://www.cursor.com/                                                                     |
@@ -72,7 +74,9 @@ For more detailed report, please refer to
 | Open-source   | Developer Tools​              | Cline                                               | https://github.com/cline/cline                                                              |
 | Open-source   | Developer Tools​              | GPT-pilot                                           | https://github.com/Pythagora-io/gpt-pilot                                                   |
 | Open-source   | Developer Tools​              | Restate                                             | https://restate.dev/                                                                        |
+|               |                              |                                                     | https://github.com/restatedev/restate                                                       |
 | Open-source   | Developer Tools​              | OpenAI Codex                                        | https://github.com/openai/codex                                                             |
+| Open-source   | Developer Tools​              | OpenEvolve                                          | https://github.com/codelion/openevolve                                                      |
 | Closed-source | ​Research/Academic Search     | Elicit                                              | https://elicit.com/?redirected=true                                                         |
 | Closed-source | ​Research/Academic Search     | ResearchRabbit                                      | https://www.researchrabbit.ai/                                                              |
 | Closed-source | ​Research/Academic Search     | STORM                                               | https://storm.genie.stanford.edu/                                                           |
@@ -89,7 +93,6 @@ For more detailed report, please refer to
 | Open-source   | Other LLM Tools​              | Ollama                                              | https://github.com/ollama/ollama                                                            |
 | Open-source   | Other LLM Tools​              | Vllm                                                | https://github.com/vllm-project/vllm                                                        |
 | Open-source   | Other LLM Tools​              | Web-LLM                                             | https://github.com/mlc-ai/web-llm                                                           |
-
 
 ## Papers
 
@@ -225,7 +228,6 @@ For more detailed report, please refer to
 | ​AI Evaluation & Benchmarking​       | Learn to ExplainMultimodal Reasoning via Thought Chains for Science Question Answering                                                                | https://arxiv.org/pdf/2209.09513                                                                                                                  |
 | ​AI Evaluation & Benchmarking​       | Benchmarking Agentic Workflow Generation                                                                                                              | https://arxiv.org/abs/2410.07869                                                                                                                  |
 | ​AI Evaluation & Benchmarking​       | TheAgentCompanyBenchmarking LLM Agents on Consequential Real World Tasks                                                                              | https://arxiv.org/abs/2412.14161                                                                                                                  |
-
 
 ## Citation
 ```python
