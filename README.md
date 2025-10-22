@@ -36,6 +36,8 @@ For more detailed report, please refer to
 | Closed-source | ​AI Assistant Tools​           | MGX.dev                                             | https://mgx.dev                                                                             |
 | Closed-source | ​AI Assistant Tools​           | You                                                 | https://you.com/about                                                                       |
 | Closed-source | ​AI Assistant Tools​           | Microsoft Copilot                                   | https://www.microsoft.com/en-us/microsoft-copilot/organizations                             |
+| Closed-source | ​AI Assistant Tools​           | MiniMax                                             | nan                                                                                         |
+| Closed-source | ​AI Assistant Tools​           | Skywork                                             | nan                                                                                         |
 | Closed-source | Workflow​                     | Claude Research                                     | https://www.anthropic.com/news/research                                                     |
 | Open-source   | Workflow​                     | Google-gemini/gemini-fullstack-langgraph-quickstart | https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart                      |
 | Open-source   | Workflow​                     | Dzhng/deep-research                                 | https://github.com/dzhng/deep-research                                                      |
@@ -61,6 +63,7 @@ For more detailed report, please refer to
 | Closed-source | Multi-modal Agent UI​         | Devin                                               | https://devin.ai/                                                                           |
 | Closed-source | Multi-modal Agent UI​         | Aime                                                | 知乎：https://zhuanlan.zhihu.com/p/1931137689400370077                                      |
 | Closed-source | Multi-modal Agent UI​         | ChatGPT Agent                                       | https://openai.com/index/introducing-chatgpt-agent/                                         |
+| Closed-source | Multi-modal Agent UI​         | Kimi OK Computer                                    | nan                                                                                         |
 | Closed-source | Foundation Models​            | OpenAI Deep Research                                | https://openai.com/index/introducing-deep-research/                                         |
 | Closed-source | Foundation Models​            | Gimini Deep Research                                | https://blog.google/products/gemini/google-gemini-deep-research/                            |
 | Closed-source | Foundation Models​            | Perplexity Deep Research                            | https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research                     |
@@ -86,13 +89,14 @@ For more detailed report, please refer to
 | Closed-source | ​Research/Academic Search     | FutureHouse Platform                                | https://www.futurehouse.org/research-announcements/launching-futurehouse-platform-ai-agents |
 | Open-source   | ​Research/Academic Search     | PaperQA                                             | https://github.com/Future-House/paper-qa                                                    |
 | Open-source   | ​Research/Academic Search     | HKUDS/AI-Researcher                                 | https://github.com/HKUDS/AI-Researcher                                                      |
+| Closed-source | ​Research/Academic Search     | Genspark                                            | nan                                                                                         |
 | Open-source   | Model Training Frameworks​    | Agent-RL/ReSearch                                   | https://github.com/Agent-RL/ReSearch                                                        |
 | Open-source   | Model Training Frameworks​    | DSPy                                                | https://github.com/stanfordnlp/dspy                                                         |
 | Open-source   | Model Training Frameworks​    | Gair-NLP/DeepResearcher                             | https://github.com/GAIR-NLP/DeepResearcher                                                  |
 | Open-source   | Model Training Frameworks​    | ModelTC/lightllm                                    | https://github.com/ModelTC/lightllm                                                         |
 | Open-source   | Other LLM Tools​              | Ollama                                              | https://github.com/ollama/ollama                                                            |
 | Open-source   | Other LLM Tools​              | Vllm                                                | https://github.com/vllm-project/vllm                                                        |
-| Open-source   | Other LLM Tools​              | Web-LLM                                             | https://github.com/mlc-ai/web-llm                                                           |
+| Open-source   | Other LLM Tools​              | Web-LLM                                             | https://github.com/mlc-ai/web-llm                                                           |                                                           |
 
 ## Papers
 
@@ -227,7 +231,7 @@ For more detailed report, please refer to
 | ​AI Evaluation & Benchmarking​       | MegaWikaMillions of reports and their sources across 50 diverse languages                                                                             | https://arxiv.org/pdf/2307.07049                                                                                                                  |
 | ​AI Evaluation & Benchmarking​       | Learn to ExplainMultimodal Reasoning via Thought Chains for Science Question Answering                                                                | https://arxiv.org/pdf/2209.09513                                                                                                                  |
 | ​AI Evaluation & Benchmarking​       | Benchmarking Agentic Workflow Generation                                                                                                              | https://arxiv.org/abs/2410.07869                                                                                                                  |
-| ​AI Evaluation & Benchmarking​       | TheAgentCompanyBenchmarking LLM Agents on Consequential Real World Tasks                                                                              | https://arxiv.org/abs/2412.14161                                                                                                                  |
+| ​AI Evaluation & Benchmarking​       | TheAgentCompanyBenchmarking LLM Agents on Consequential Real World Tasks                                                                              | https://arxiv.org/abs/2412.14161                                                                                                                  |                                                                                                               |
 
 ## Citation
 ```python
