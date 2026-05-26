@@ -89,6 +89,7 @@ For more detailed report, please refer to
 | Closed-source | ​Research/Academic Search     | FutureHouse Platform                                | https://www.futurehouse.org/research-announcements/launching-futurehouse-platform-ai-agents |
 | Open-source   | ​Research/Academic Search     | PaperQA                                             | https://github.com/Future-House/paper-qa                                                    |
 | Open-source   | ​Research/Academic Search     | HKUDS/AI-Researcher                                 | https://github.com/HKUDS/AI-Researcher                                                      |
+| Open-source   | ​Research/Academic Search     | II-Commons Skills                                   | https://github.com/Intelligent-Internet/II-Commons-Skills                                   |
 | Closed-source | ​Research/Academic Search     | Genspark                                            | nan                                                                                         |
 | Open-source   | Model Training Frameworks​    | Agent-RL/ReSearch                                   | https://github.com/Agent-RL/ReSearch                                                        |
 | Open-source   | Model Training Frameworks​    | DSPy                                                | https://github.com/stanfordnlp/dspy                                                         |
