@@ -91,6 +91,7 @@ For more detailed report, please refer to
 | Open-source   | ​Research/Academic Search     | PaperQA                                             | https://github.com/Future-House/paper-qa                                                    |
 | Open-source   | ​Research/Academic Search     | HKUDS/AI-Researcher                                 | https://github.com/HKUDS/AI-Researcher                                                      |
 | Closed-source | ​Research/Academic Search     | Genspark                                            | nan                                                                                         |
+| Open-source   | ​Research/Academic Search     | Deep Research Client                                | https://monarch-initiative.github.io/deep-research-client/                                  |
 | Open-source   | Model Training Frameworks​    | Agent-RL/ReSearch                                   | https://github.com/Agent-RL/ReSearch                                                        |
 | Open-source   | Model Training Frameworks​    | DSPy                                                | https://github.com/stanfordnlp/dspy                                                         |
 | Open-source   | Model Training Frameworks​    | Gair-NLP/DeepResearcher                             | https://github.com/GAIR-NLP/DeepResearcher                                                  |
