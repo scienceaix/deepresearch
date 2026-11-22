@@ -87,6 +87,7 @@ For more detailed report, please refer to
 | Closed-source | ​Research/Academic Search     | Consensus                                           | https://consensus.app/                                                                      |
 | Closed-source | ​Research/Academic Search     | Scite                                               | https://scite.ai/                                                                           |
 | Closed-source | ​Research/Academic Search     | Scispace                                            | https://scispace.com/                                                                       |
+| Closed-source | ​Research/Academic Search     | Nujan                                               | https://nujan.app/                                                                          |
 | Closed-source | ​Research/Academic Search     | FutureHouse Platform                                | https://www.futurehouse.org/research-announcements/launching-futurehouse-platform-ai-agents |
 | Open-source   | ​Research/Academic Search     | PaperQA                                             | https://github.com/Future-House/paper-qa                                                    |
 | Open-source   | ​Research/Academic Search     | HKUDS/AI-Researcher                                 | https://github.com/HKUDS/AI-Researcher                                                      |
