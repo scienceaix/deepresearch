@@ -53,6 +53,7 @@ For more detailed report, please refer to
 | Open-source   | Workflow​                     | HKUDS/Auto-Deep-Research                            | https://github.com/HKUDS/Auto-Deep-Research                                                 |
 | Open-source   | Workflow​                     | AgentLaboratory                                     | https://github.com/SamuelSchmidgall/AgentLaboratory                                         |
 | Open-source | Workflow | Alibaba-NLP/DeepResearch | https://github.com/Alibaba-NLP/DeepResearch |
+| Open-source   | Workflow​                     | Mvanhorn/last30days-skill                           | https://github.com/mvanhorn/last30days-skill                                                |
 | Closed-source | Multi-modal Agent UI​         | Manus                                               | https://manus.im/                                                                           |
 | Closed-source | Multi-modal Agent UI​         | Flowith-Oracle Mode                                 | https://flowith.net/                                                                        |
 | Open-source   | Multi-modal Agent UI​         | OpenManus                                           | https://github.com/FoundationAgents/OpenManus                                               |
